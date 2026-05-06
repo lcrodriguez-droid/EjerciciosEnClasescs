@@ -7,8 +7,18 @@ double promedio= 0;
 
         for (int i = 0; i < edades.Length; i++)
        { 
+        try{
             Console.Write("dime la edad: " +(i + 1) + ": ");
             edades[i] = int.Parse(Console.ReadLine()!);
+        }
+        catch (FormatException)
+        {
+            Console.WriteLine("Por favor, ingresa un número válido   para la edad.");
+            i--; // Decrementar el índice para volver a pedir la edad
+        }
+            Console.Write("dime la edad: " +(i + 1) + ": ");
+            edades[i] = int.Parse(Console.ReadLine()!
+            );
        }
 
         for (int i = 0; i < edades.Length; i++)
