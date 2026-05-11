@@ -1,0 +1,15 @@
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\bin\Debug\net10.0\sumadearreglos.exe
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\bin\Debug\net10.0\sumadearreglos.deps.json
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\bin\Debug\net10.0\sumadearreglos.runtimeconfig.json
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\bin\Debug\net10.0\sumadearreglos.dll
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\bin\Debug\net10.0\sumadearreglos.pdb
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\sumadearreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\sumadearreglos.AssemblyInfoInputs.cache
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\sumadearreglos.AssemblyInfo.cs
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\sumadearreglos.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\sumadearreglos.sourcelink.json
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\sumadearreglos.dll
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\refint\sumadearreglos.dll
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\sumadearreglos.pdb
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\sumadearreglos.genruntimeconfig.cache
+C:\Users\luisc\Desktop\grupo6pogcs\sumadearreglos\obj\Debug\net10.0\ref\sumadearreglos.dll

@@ -1,0 +1,15 @@
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\bin\Debug\net10.0\ProductoDeArreglos.exe
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\bin\Debug\net10.0\ProductoDeArreglos.deps.json
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\bin\Debug\net10.0\ProductoDeArreglos.runtimeconfig.json
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\bin\Debug\net10.0\ProductoDeArreglos.dll
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\bin\Debug\net10.0\ProductoDeArreglos.pdb
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ProductoDeArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ProductoDeArreglos.AssemblyInfoInputs.cache
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ProductoDeArreglos.AssemblyInfo.cs
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ProductoDeArreglos.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ProductoDeArreglos.sourcelink.json
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ProductoDeArreglos.dll
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\refint\ProductoDeArreglos.dll
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ProductoDeArreglos.pdb
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ProductoDeArreglos.genruntimeconfig.cache
+C:\Users\luisc\Desktop\grupo6pogcs\ProductoDeArreglos\obj\Debug\net10.0\ref\ProductoDeArreglos.dll

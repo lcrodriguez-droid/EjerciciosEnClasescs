@@ -1,0 +1,15 @@
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\bin\Debug\net10.0\MagnitudDeVectores.exe
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\bin\Debug\net10.0\MagnitudDeVectores.deps.json
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\bin\Debug\net10.0\MagnitudDeVectores.runtimeconfig.json
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\bin\Debug\net10.0\MagnitudDeVectores.dll
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\bin\Debug\net10.0\MagnitudDeVectores.pdb
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\MagnitudDeVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\MagnitudDeVectores.AssemblyInfoInputs.cache
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\MagnitudDeVectores.AssemblyInfo.cs
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\MagnitudDeVectores.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\MagnitudDeVectores.sourcelink.json
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\MagnitudDeVectores.dll
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\refint\MagnitudDeVectores.dll
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\MagnitudDeVectores.pdb
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\MagnitudDeVectores.genruntimeconfig.cache
+C:\Users\luisc\Desktop\grupo6pogcs\MagnitudDeVectores\obj\Debug\net10.0\ref\MagnitudDeVectores.dll
